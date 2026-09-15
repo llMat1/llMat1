@@ -18,7 +18,7 @@ Currently deepening my studies in **Python**, **HTML** , **CSS**, **JavaScript**
 
 I also have experience with **HTML**, **CSS**, **Java**, **Python**, **Mysql**, **Java** and **Git**.
 
-<img width="40%" align="right" alt="Lain" src="https://raw.githubusercontent.com/llMat1/llMat1/main/olhospretoebranco.gif">
+<img width="40%" align="right" alt="Lain" src="https://raw.githubusercontent.com/llMat1/llMat1/main/sasuke pequeno.gif">
 
 <br clear="right"/>
 
