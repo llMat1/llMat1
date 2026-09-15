@@ -5,7 +5,7 @@
 
 <!-- TITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=8B0000&center=true&vCenter=true&width=600&lines=Uchiha+Sasuke;Fear+the+old+blood.;Seek+Paleblood+to+transcend+the+Hunt." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=2000&color=8B0000&center=true&vCenter=true&width=1000&lines=Uchiha+Sasuke;Fear+the+old+blood.;Seek+Paleblood+to+transcend+the+Hunt." alt="Typing SVG"/>
 </div>
 
 ---
@@ -18,7 +18,7 @@ Currently deepening my studies in **Python**, **HTML** , **CSS**, **JavaScript**
 
 I also have experience with **HTML**, **CSS**, **Java**, **Python**, **Mysql**, **Java** and **Git**.
 
-<img width="25%" align="right" alt="Lain" src="https://raw.githubusercontent.com/llMat1/llMat1/main/olhospretoebranco.gif">
+<img width="40%" align="right" alt="Lain" src="https://raw.githubusercontent.com/llMat1/llMat1/main/olhospretoebranco.gif">
 
 <br clear="right"/>
 
@@ -63,9 +63,6 @@ I also have experience with **HTML**, **CSS**, **Java**, **Python**, **Mysql**, 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=llMat1&theme=dark&ring=&fire=8B0000&currStreakLabel=8B0000&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=8B0000" alt="streak"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=llMat1&show_icons=true&theme=dark&title_color=&icon_color=8B0000&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llMat1&layout=compact&theme=dark&title_color=8B0000text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
 
 </div>
 
