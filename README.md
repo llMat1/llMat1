@@ -93,3 +93,6 @@ I also have experience with **HTML**, **CSS**, **Java**, **Python**, **Mysql**, 
 *† Seek Paleblood to transcend the Hunt †*
 
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/llMat1/llMat1/main/itachimorte.jpg" width="90%" alt="banner"/>
+</div>
