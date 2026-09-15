@@ -18,7 +18,7 @@
 
 Currently deepening my studies in **Python**, **HTML**, **CSS**, **JavaScript**, and **Java**, applying this knowledge to real personal projects — automation bots, portfolios, and web tools.
 
-Also experienced with **MySQL** and **Git**.
+I also have experience with **HTML**, **CSS**, **Java**, **Python**, **Mysql**, **Java** and **Git**.
 
 <br>
 
