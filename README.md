@@ -1,32 +1,40 @@
-<!-- BANNER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/llMat1/llMat1/main/sasuke.jpg" width="100%" alt="banner"/>
 </div>
 
-<!-- TITLE -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=2000&color=8B0000&center=true&vCenter=true&width=1000&lines=Uchiha+Sasuke;Fear+the+old+blood.;Seek+Paleblood+to+transcend+the+Hunt." alt="Typing SVG"/>
 </div>
 
 ---
 
-**Programmer/Developer**
+<table>
+  <tr>
+    <td valign="top" width="60%">
+
+### ⚔️ Programmer / Developer
 
 > *"We are born of the blood, made men by the blood, undone by the blood."*
 
-Currently deepening my studies in **Python**, **HTML** , **CSS**, **JavaScript** and **Java** , applying this knowledge to real personal projects — automation bots, portfolios, and web tools.
+Currently deepening my studies in **Python**, **HTML**, **CSS**, **JavaScript**, and **Java**, applying this knowledge to real personal projects — automation bots, portfolios, and web tools.
 
-I also have experience with **HTML**, **CSS**, **Java**, **Python**, **Mysql**, **Java** and **Git**.
+Also experienced with **MySQL** and **Git**.
 
-<img width="40%" align="right" alt="Lain" src="https://raw.githubusercontent.com/llMat1/llMat1/main/sasuke pequeno.gif">
+<br>
 
-<br clear="right"/>
+**Hunter Stats:**
+* ◈ **Class:** Developer / Programmer
+* ◈ **Origin:** Brazil 🇧🇷
+* ◈ **Alliance:** Open Source
+* ◈ **Attributes:** INT / DEX
+* ◈ **Status:** Hunter. Refuses to go hollow.
 
-◈ Class → Developer/Programmer
-◈ Origin → Brazil 🇧🇷
-◈ Alliance → Open Source
-◈ Attributes → INT / DEX
-◈ Status → Hunter. Refuses to go hollow.
+    </td>
+    <td align="center" valign="middle" width="40%">
+      <img src="https://raw.githubusercontent.com/llMat1/llMat1/main/sasuke pequeno.gif" width="100%" alt="Sasuke GIF">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -49,7 +57,7 @@ I also have experience with **HTML**, **CSS**, **Java**, **Python**, **Mysql**, 
 </div>
 
 <div>
-  <img width="90%" alt="Itachi" src="https://raw.githubusercontent.com/llMat1/llMat1/main/itachiabrindoporta.jpg">
+  <img width="100%" alt="Itachi" src="https://raw.githubusercontent.com/llMat1/llMat1/main/itachiabrindoporta.jpg">
 </div>
 
 <div align="center">
